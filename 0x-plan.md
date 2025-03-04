@@ -16,3 +16,5 @@
 - Harmonic Numbers
 - ackermann
 - busy beaver number &nbsp;&nbsp; `N(n) = (4(n + 1))**2n`
+
+## find a way to integrate automatons
